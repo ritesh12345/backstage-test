@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ritesh
+spec:
+  profile:
+    displayName: Ritesh Kumar
+    email: ritesh.crazy04@gmail.com
+  memberOf:
+    - team-ritz
